@@ -1,2 +1,2 @@
 # JS-App-Blog
-fsdgfgd
+Blog on Native JavaScript 
